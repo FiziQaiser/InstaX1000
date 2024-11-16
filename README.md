@@ -4,7 +4,7 @@ Here’s the updated `README.md` with a mention of Upstreet.ai and a reference t
 
 # 🖼️ InstaX1000 Agent
 
-An intelligent agent that generates captions for images using AI and uploads them to Instagram with just an image URL and a caption. Built using the powerful [Upstreet.ai USDK](https://upstreet.ai/documentation), this project leverages advanced agent-based development to simplify and automate social media management.
+An intelligent agent that generates captions for images using AI and uploads them to Instagram with just an image URL and a caption. Built using the powerful [Upstreet.ai USDK](https://docs.upstreet.ai/), this project leverages advanced agent-based development to simplify and automate social media management.
 
 ---
 

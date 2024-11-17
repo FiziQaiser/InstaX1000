@@ -1,7 +1,3 @@
-Here’s the updated `README.md` with the updated title:
-
----
-
 # 🖼️ InstaX1000: AI Image Captioning for Instagram
 
 An intelligent agent that generates captions for images using AI and uploads them to Instagram with just an image URL and a caption. Built using the powerful [Upstreet.ai USDK](https://docs.upstreet.ai/), this project leverages advanced agent-based development to simplify and automate social media management.
@@ -153,7 +149,3 @@ Successfully uploaded the image to Instagram! Post ID: 123456789012345
 ## 📜 License
 
 This project is licensed under the MIT License. Feel free to use and modify it for personal or commercial purposes.
-
----
-
-Let me know if you need any additional edits!

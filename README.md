@@ -1,10 +1,16 @@
-Here’s the updated `README.md` with a mention of Upstreet.ai and a reference to their documentation:
+Here’s the updated `README.md` with the updated title:
 
 ---
 
-# 🖼️ InstaX1000 Agent
+# 🖼️ InstaX1000: AI Image Captioning for Instagram
 
 An intelligent agent that generates captions for images using AI and uploads them to Instagram with just an image URL and a caption. Built using the powerful [Upstreet.ai USDK](https://docs.upstreet.ai/), this project leverages advanced agent-based development to simplify and automate social media management.
+
+---
+
+## 🎥 Video Demo
+
+Check out a quick [video demonstration](https://www.loom.com/share/6d7bc7ee0be94b91b49f5d0e2b3141db) of the InstaX1000 Agent in action!
 
 ---
 
@@ -51,7 +57,7 @@ An intelligent agent that generates captions for images using AI and uploads the
 2. **Install Dependencies**:
    Install the necessary packages for the project:
    ```bash
-    npm install instagram-private-api axios openai
+   npm install instagram-private-api axios openai
    ```
    The following dependencies will be installed:
    - **[`instagram-private-api`](https://www.npmjs.com/package/instagram-private-api)**: Provides seamless interaction with Instagram's private API.
@@ -71,6 +77,8 @@ An intelligent agent that generates captions for images using AI and uploads the
    usdk start
    ```
 
+---
+
 ## 📖 Usage
 
 1. **Generate Captions**:
@@ -87,7 +95,7 @@ This project was developed using [Upstreet.ai's USDK](https://docs.upstreet.ai/)
 
 ---
 
-## 📝 Environment Variables
+## 📞 Environment Variables
 
 | Variable           | Description                               | Example Value             |
 |--------------------|-------------------------------------------|---------------------------|
@@ -148,4 +156,4 @@ This project is licensed under the MIT License. Feel free to use and modify it f
 
 ---
 
-Let me know if you need any further modifications!
+Let me know if you need any additional edits!

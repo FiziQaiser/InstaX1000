@@ -83,7 +83,7 @@ An intelligent agent that generates captions for images using AI and uploads the
 
 ## 💡 About Upstreet.ai
 
-This project was developed using [Upstreet.ai's USDK](https://upstreet.ai/documentation), which provides a robust framework for building agent-based applications. USDK simplifies the development of conversational bots and automated agents, allowing seamless integration with platforms like Instagram and OpenAI. For more information, refer to their [official documentation](https://upstreet.ai/documentation).
+This project was developed using [Upstreet.ai's USDK](https://docs.upstreet.ai/), which provides a robust framework for building agent-based applications. USDK simplifies the development of conversational bots and automated agents, allowing seamless integration with platforms like Instagram and OpenAI. For more information, refer to their [official documentation](https://docs.upstreet.ai/).
 
 ---
 
